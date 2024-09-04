@@ -11,7 +11,7 @@ My programming journey started in 2012.. but this page isn't my CV.  If you want
 I like writing. 🖋️ \
 It helps me gain a deeper understanding of topics and allows me to share knowledge with others. 
 I usually cover Ruby and Rails-related subjects. Feel free to check out my work on the [Visuality blog](https://www.visuality.pl/posts?author=Micha%C5%82+%C5%81%C4%99cicki). \
-With more then 15 blog posts written, here are some of my favorites:
+With more than 15 blog posts written, here are some of my favorites:
 
 **Hotwire related** 🔥
 - [Showing progress of background jobs with Turbo](https://www.visuality.pl/posts/showing-progress-of-background-jobs-with-turbo)
@@ -26,7 +26,7 @@ With more then 15 blog posts written, here are some of my favorites:
 - [Data Quality in Rails apps](https://www.visuality.pl/posts/data-quality-in-ruby-on-rails)
 - [Prototyping](https://www.visuality.pl/posts/let-s-prototype)
 
-As you can see on the Visuality page, I often document important events such as conferences and company life.
+As you can see on the Visuality page, I also document important events such as conferences and company life.
 
 ## Meetups
 Being part of a community means both receiving and giving. I've had the privilege to give talks at the following events:
@@ -46,7 +46,10 @@ I've had the pleasure of speaking at the following conferences:
 
 ## Workshops
 
-One of my recent achievements was leading a workshop with [@piowit](https://github.com/piowit) titled "Building a Live Kanban Board with Rails and Hotwire". We spent 3 hours teaching and building a live, dynamic, interactive Kanban board using the latest Hotwire Turbo. It was an awesome experience! 🎉
+One of my recent achievements was leading a workshop with [@piowit](https://github.com/piowit) titled "Building a Live Kanban Board with Rails and Hotwire". 
+We spent 3 hours teaching and building a live, dynamic, interactive Kanban board using the latest Hotwire Turbo.
+
+If you are interested in more details -  here is an [official workhop offer](https://www.visuality.pl/workshops/hotwire)! 🎉
 
 ## Getting Things Done
 
