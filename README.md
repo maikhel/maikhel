@@ -1,6 +1,6 @@
 ## Hello There! I'm Michał Łęcicki (aka Maikhel) 👋
 
-I'm a Ruby software engineer 💎 \
+I'm a [certified](https://maikhel.github.io/images/ruby_certificate.webp) Ruby software engineer 💎 \
 I believe self-improvement, responsibility, and clean solutions are essential for getting things done, both in software and real life. 🔨
 
 ### My Journey
