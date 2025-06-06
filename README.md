@@ -31,7 +31,7 @@ As you can see on the Visuality page, I also document important events such as c
 ## Meetups
 Being part of a community means both receiving and giving. I've had the privilege to give talks at the following events:
 
-- Polish Ruby User Group in Warsaw (PLRUG): [July 2022](https://www.meetup.com/pl-PL/polishrubyusergroup/events/287060718/), [November 2023](https://www.meetup.com/pl-PL/polishrubyusergroup/events/297213322/), [March 2024](https://www.meetup.com/pl-PL/polishrubyusergroup/events/299748352/)
+- Polish Ruby User Group in Warsaw (PLRUG): [July 2022](https://www.meetup.com/pl-PL/polishrubyusergroup/events/287060718/), [November 2023](https://www.meetup.com/pl-PL/polishrubyusergroup/events/297213322/), [March 2024](https://www.meetup.com/pl-PL/polishrubyusergroup/events/299748352/), [June 2025](https://www.meetup.com/polishrubyusergroup/events/308002944/)
 - Poznań Ruby User Group (PRUG): October 2022, [January 2024](https://www.meetup.com/pl-PL/polishrubyusergroup/events/298459627/)
 - Ruby User Group Berlin (RUG*B): [June 2024](https://www.rug-b.de/events/june-meetup-2024-781)
 
@@ -42,6 +42,7 @@ Being part of a community means both receiving and giving. I've had the privileg
 I've had the pleasure of speaking at the following conferences:
 - [Warsaw Ruby Community Conference, 2024](https://rubycommunityconference.com/winter2024/) - Implementing business archetypes in Rails
 - [Ruby Unconf 2024 in Hamburg](https://2024.rubyunconf.eu/) - Showing progress of background jobs with Hotwire Turbo
+- [Balkan Ruby 2025 in Sofia](https://2025.balkanruby.com/) - Shit Happens: Handling Mistakes 101
 
 
 ## Workshops
