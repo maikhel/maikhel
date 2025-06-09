@@ -50,6 +50,10 @@ I've had the pleasure of speaking at the following conferences:
 One of my recent achievements was leading a workshop with [@piowit](https://github.com/piowit) titled "Building a Live Kanban Board with Rails and Hotwire". 
 We spent 3 hours teaching and building a live, dynamic, interactive Kanban board using the latest Hotwire Turbo.
 
+- **Workshop #1**: [Warsaw Community Conference 2024](https://rubycommunityconference.com/summer2024#workshops)
+- **Workshop #2**: [Warsaw Community Conference 2025](https://rubycommunityconference.com/#workshops)
+- **Workshop #3**: [Helvetic Ruby 2025](https://helvetic-ruby.ch/talks/#hotwire-workshop)
+
 If you are interested in more details -  here is an [official workhop offer](https://www.visuality.pl/workshops/hotwire)! 🎉
 
 ## Getting Things Done
