@@ -43,6 +43,7 @@ I've had the pleasure of speaking at the following conferences:
 - [Warsaw Ruby Community Conference, 2024](https://rubycommunityconference.com/winter2024/) - Implementing business archetypes in Rails
 - [Ruby Unconf 2024 in Hamburg](https://2024.rubyunconf.eu/) - Showing progress of background jobs with Hotwire Turbo
 - [Balkan Ruby 2025 in Sofia](https://2025.balkanruby.com/) - Shit Happens: Handling Mistakes 101
+- [Baltic Ruby 2025 in Riga](https://balticruby.org/agenda) - More Ruby, less Rails: rediscover the beauty of Ruby
 
 To see a full list of my presentations, visit my profile on [Ruby Events](https://www.rubyevents.org/speakers/michal-lecicki).
 
