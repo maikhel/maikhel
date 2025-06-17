@@ -44,6 +44,7 @@ I've had the pleasure of speaking at the following conferences:
 - [Ruby Unconf 2024 in Hamburg](https://2024.rubyunconf.eu/) - Showing progress of background jobs with Hotwire Turbo
 - [Balkan Ruby 2025 in Sofia](https://2025.balkanruby.com/) - Shit Happens: Handling Mistakes 101
 
+To see a full list of my presentations, visit my profile on [Ruby Events](https://www.rubyevents.org/speakers/michal-lecicki).
 
 ## Workshops
 
