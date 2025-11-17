@@ -95,7 +95,7 @@ Oh, and I’m a big Star Wars fan (mostly pre-Disney era movies.. 😢)
 
 ## Connect with Me
 
-Feel free to reach out via [my personal website](maikhel.github.io). Or, find me on [LinkedIn](www.linkedin.com/in/maikhel) or [X](https://x.com/mlecicki)
+Feel free to reach out via [my personal website](https://maikhel.github.io). Or, find me on [LinkedIn](https://www.linkedin.com/in/maikhel) or [X](https://x.com/mlecicki)
 
 ---
 
