@@ -3,9 +3,18 @@
 I'm a [certified](https://maikhel.github.io/images/ruby_certificate.webp) Ruby software engineer 💎 \
 I believe self-improvement, responsibility, and clean solutions are essential for getting things done, both in software and real life. 🔨
 
-### My Journey
 
-My programming journey started in 2012.. but this page isn't my CV.  If you want to know more about my career path, please visit my [personal page](https://maikhel.github.io/about) or [LinkedIn profile](www.linkedin.com/in/maikhel) 🪪 
+### Career path
+
+My programming journey started in 2012 with free "Introduction to Java 101" Coursera course. Excited by creating a program that can rotate an image, I got to more serious learning at university. \ 
+I got Bachelor’s degree in IT in 2016, University of Cardinal Stefan Wyszyński in Warsaw.
+
+In 2015, I started working in Weblify as a junior Ruby on Rails developer and in 2018 I moved to Visuality as a software engineer. 
+Surrounded by experienced engineers, I learned and still improve best development practices, applying clean architecture and choosing right design patterns. \
+In 2024, I passed the Ruby Association Certified Ruby Programmer Examination Silver.
+
+If you want to know more about my career path, please visit my [LinkedIn profile](www.linkedin.com/in/maikhel) 🪪  \
+And don't miss my [professional blog](https://maikhel.github.io)! 📝
 
 ## Blog posts
 I like writing. 🖋️ \
@@ -26,7 +35,7 @@ With more than 15 blog posts written, here are some of my favorites:
 - [Data Quality in Rails apps](https://www.visuality.pl/posts/data-quality-in-ruby-on-rails)
 - [Prototyping](https://www.visuality.pl/posts/let-s-prototype)
 
-As you can see on the Visuality page, I also document important events such as conferences and company life.
+As you can check on the Visuality blog, I also document important events such as conferences and company life.
 
 ## Meetups
 Being part of a community means both receiving and giving. I've had the privilege to give talks at the following events:
@@ -85,7 +94,7 @@ Check out the blog series I wrote on the topic:
 </details>
 
 ## After work
-- Psychology still remains in my deep interest, mostly cognitive psychology and all productivity related staff. 🧠
+- Primary field of my knowledge is psychology - mostly cognitive psychology and all productivity related staff. 🧠
 - Playing board games is one of my favourites activities, ask me if you need recommendations! 🎲
 - I enjoy hunting.. Hunting for the perfect photo scene 📸. Check out my photos [here](https://500px.com/p/mlecicki?view=photos)
 - I'm part of the elite group of people who love to read books 📚
