@@ -6,7 +6,7 @@ I believe self-improvement, responsibility, and clean solutions are essential fo
 
 ### Career path
 
-My programming journey started in 2012 with free "Introduction to Java 101" Coursera course. Excited by creating a program that can rotate an image, I got to more serious learning at university. \ 
+My programming journey started in 2012 with free "Introduction to Java 101" Coursera course. Excited by creating a program that can rotate an image, I got to more serious learning at university. \
 I got Bachelor’s degree in IT in 2016, University of Cardinal Stefan Wyszyński in Warsaw.
 
 In 2015, I started working in Weblify as a junior Ruby on Rails developer and in 2018 I moved to Visuality as a software engineer. 
