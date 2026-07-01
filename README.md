@@ -22,7 +22,7 @@ It helps me gain a deeper understanding of topics and allows me to share knowled
 I usually cover Ruby and Rails-related subjects. Feel free to check out my work on the [Visuality blog](https://www.visuality.pl/posts?author=Micha%C5%82+%C5%81%C4%99cicki). \
 With more than 15 blog posts written, here are some of my favorites:
 
-**Hotwire related** 🔥
+**Hotwire** 🔥
 - [Showing progress of background jobs with Turbo](https://www.visuality.pl/posts/showing-progress-of-background-jobs-with-turbo)
 - [Smooth concurrent updates with Hotwire Stimulus](https://www.visuality.pl/posts/smooth-concurrent-updates-with-hotwire-stimulus)
 
@@ -34,6 +34,10 @@ With more than 15 blog posts written, here are some of my favorites:
 **Software engineering** ⚙️
 - [Data Quality in Rails apps](https://www.visuality.pl/posts/data-quality-in-ruby-on-rails)
 - [Prototyping](https://www.visuality.pl/posts/let-s-prototype)
+
+**AI** ✨
+- [AI Hype and the pattern of very tech revolution](https://www.visuality.pl/posts/ai-hype-and-the-pattern-of-every-tech-revolution)
+- [AI standards in your development team](https://www.visuality.pl/posts/your-team-needs-to-use-ai-assistants-the-right-way)
 
 As you can check on the Visuality blog, I also document important events such as conferences and company life.
 
@@ -71,9 +75,9 @@ If you are interested in more details -  here is an [official workhop offer](htt
 
 I use GTD to manage my personal and work life from more than 10 years now! 
 Check out the blog series I wrote on the topic:
-- [My thoughts after using Getting Things Done for 10 years](https://maikhel.github.io/2022/10/18/gtd-thoughts-after-10-years.html)
-- [GTD Setup I use](https://maikhel.github.io/2022/12/22/gtd-setup.html)
-- [5 steps to get you started with GTD](https://maikhel.github.io/2023/01/30/gtd-starting-guide.html)
+- [My thoughts after using Getting Things Done for 10 years](https://maikhel.github.io/blog/gtd-thoughts-after-10-years/)
+- [GTD Setup I use](https://maikhel.github.io/blog/gtd-setup/)
+- [5 steps to get you started with GTD](https://maikhel.github.io/blog/gtd-starting-guide/)
 
 <details>
     <summary>I also strong believe in The Cult of Done Manifesto</summary>
