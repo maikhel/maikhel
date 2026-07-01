@@ -66,8 +66,9 @@ One of my recent achievements was leading a workshop with [@piowit](https://gith
 We spent 3 hours teaching and building a live, dynamic, interactive Kanban board using the latest Hotwire Turbo.
 
 - **Workshop #1**: [Warsaw Community Conference 2024](https://rubycommunityconference.com/summer2024#workshops)
-- **Workshop #2**: [Warsaw Community Conference 2025](https://rubycommunityconference.com/#workshops)
+- **Workshop #2**: [Ruby Community Conference 2025](https://rubycommunityconference.com/winter2025#workshops)
 - **Workshop #3**: [Helvetic Ruby 2025](https://helvetic-ruby.ch/talks/#hotwire-workshop)
+- **Workshop #4**: [Ruby Community Conference 2026](https://rubycommunityconference.com/#workshops)
 
 If you are interested in more details -  here is an [official workhop offer](https://www.visuality.pl/workshops/hotwire)! 🎉
 
