@@ -3,6 +3,10 @@
 I'm a [certified](https://maikhel.github.io/images/ruby_certificate.webp) Ruby software engineer 💎 \
 I believe self-improvement, responsibility, and clean solutions are essential for getting things done, both in software and real life. 🔨
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="visuality-grid-dark.svg">
+  <img alt="Visuality - a year of the team's commits" src="visuality-grid-light.svg">
+</picture>
 
 ### Career path
 
